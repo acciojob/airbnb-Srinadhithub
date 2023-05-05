@@ -4,7 +4,6 @@ import com.driver.model.Booking;
 import com.driver.model.Facility;
 import com.driver.model.Hotel;
 import com.driver.model.User;
-import com.driver.repositories.HotelManagementRepository;
 import io.swagger.models.auth.In;
 
 import java.util.*;
